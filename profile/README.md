@@ -1,3 +1,4 @@
+![Weboasis Refugees](/images/logowhite.png)
 # Weboasis Refugees
 
 This org is a help guide the weary travellers who are lost in the web desert.
